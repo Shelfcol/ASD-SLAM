@@ -1,0 +1,15 @@
+DataSave/
+build/
+devel/
+logs/
+.catkin_tools/
+*.gz
+*.zip
+*~
+
+.vscode/
+.vs/
+*.txt~
+*.cpp~
+*.sh~
+.gitignore~
